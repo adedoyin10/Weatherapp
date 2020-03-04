@@ -1,0 +1,16 @@
+{
+  "name": "Doyin Weather",
+  "short_name": "Weather",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white", 
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon/android-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
