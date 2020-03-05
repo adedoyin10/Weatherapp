@@ -5,9 +5,9 @@ const assets = [
   'app.js',
   'weather.js',
   'weather.css',
-  'favicon\android-icon-36x36.png',
-  'favicon\apple-icon-144x144.png',
-  'favicon\android-icon-144x144.png',
+  'favicon/android-icon-36x36.png',
+  'favicon/apple-icon-144x144.png',
+  'favicon/android-icon-144x144.png',
 ];
 
 // cache size limit function
