@@ -1,8 +1,7 @@
 const staticCacheName = 'site-static-v4';
 const dynamicCacheName = 'site-dynamic-v4';
 const assets = [
-  '/',
-  'weather.html',
+  'index.html',
   'app.js',
   'weather.js',
   'weather.css',
